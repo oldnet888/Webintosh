@@ -1,4 +1,6 @@
-<link rel="stylesheet" href="assets/styles/readme.css" />
+<head>
+    <link rel="stylesheet" href="assets/styles/readme.css" />
+</head>
 
 <div align="center" style="margin: 15px 0;">
     <div style="width: auto; display: inline-flex; height: auto; align-items: center; justify-content: center;    border-radius: 16px; background: #f6f6f658; backdrop-filter: blur(50px); -webkit-backdrop-filter: blur(50px); border: 0.4px solid rgba(255, 255, 255, 0.2); box-shadow: 0 0 36px #000; padding: 4px; padding-bottom: 3px;">
