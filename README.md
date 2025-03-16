@@ -1,81 +1,4 @@
-<!-- <style>
-    div[window] {
-        border-radius: 10px;
-        overflow: hidden;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        position: relative;
-        background: #fefefe;
-        padding: 24px 12px;
-    }
-
-    div[wintools] {
-        z-index: 10;
-        position: absolute;
-        top: 8px;
-        left: 12px;
-        width: auto;
-        height: auto;
-        display: inline-flex;
-        flex-direction: row;
-        justify-content: center;
-        align-items: center;
-        user-select: none;
-        -webkit-user-select: none;
-    }
-
-    div[red] {
-        cursor: default;
-        font-size: 7px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        width: 10px;
-        height: 10px;
-        border-radius: 50%;
-        background-color: #ff5f57;
-        margin-right: 6px;
-    }
-
-    div[yellow] {
-        cursor: default;
-        font-size: 6px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        width: 10px;
-        height: 10px;
-        border-radius: 50%;
-        background-color: #febc2e;
-        margin-right: 6px;
-    }
-
-    div[green] {
-        cursor: default;
-        font-size: 7px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        width: 10px;
-        height: 10px;
-        border-radius: 50%;
-        background-color: #28c840;
-    }
-
-    div[window] p {
-        margin: 0;
-        color: black;
-    }
-
-    div[shields] {
-        width: auto;
-        height: auto;
-        display: flex;
-        flex-direction: row;
-    }
-</style>
+<link rel="stylesheet" href="assets/styles/readme.css" />
 
 <div align="center" style="margin: 15px 0;">
     <div style="width: auto; display: inline-flex; height: auto; align-items: center; justify-content: center;    border-radius: 16px; background: #f6f6f658; backdrop-filter: blur(50px); -webkit-backdrop-filter: blur(50px); border: 0.4px solid rgba(255, 255, 255, 0.2); box-shadow: 0 0 36px #000; padding: 4px; padding-bottom: 3px;">
@@ -159,8 +82,8 @@
     <img src="https://img.shields.io/badge/Mail-1825456084@qq.com-blue?logo=qq" />
     <img src="https://img.shields.io/badge/QQ-1825456084-blue?logo=qq" style="margin-top: 10px;" />
     <img src="https://img.shields.io/badge/BiliBili-437436764-pink?logo=bilibili" style="margin-top: 10px;" />
-</div> -->
-
-<div style="width: 100%">
-    <img src="readme/main.svg" style="width: 100%;" />
 </div>
+
+<!-- <div style="width: 100%">
+    <img src="readme/main.svg" style="width: 100%;" />
+</div> -->
