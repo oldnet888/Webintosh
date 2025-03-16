@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
     div[window] {
         border-radius: 10px;
         overflow: hidden;
@@ -159,4 +159,8 @@
     <img src="https://img.shields.io/badge/Mail-1825456084@qq.com-blue?logo=qq" />
     <img src="https://img.shields.io/badge/QQ-1825456084-blue?logo=qq" style="margin-top: 10px;" />
     <img src="https://img.shields.io/badge/BiliBili-437436764-pink?logo=bilibili" style="margin-top: 10px;" />
+</div> -->
+
+<div style="width: 100%">
+    <img src="readme/main.svg" style="width: 100%;" />
 </div>
