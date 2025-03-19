@@ -32,27 +32,6 @@
                 <div class="green"></div>
             </div>
             <img src="../logo.png" width="120" height="120" />
-            <!-- <div shields>
-                <a href="https://github.com/CodeCrafter-TL/webintosh/releases"><img alt="Version" src="https://img.shields.io/github/v/release/CodeCrafter-TL/webintosh?include_prereleases&logo=github&label=Version" title="Latest Version" style="margin-right: 5px;" /></a>
-                <a href="https://github.com/CodeCrafter-TL/webintosh"><img alt="Size" src="https://img.shields.io/github/languages/code-size/CodeCrafter-TL/webintosh?label=Size&logo=github" title="Code Size" style="margin-right: 5px;" /></a>
-                <br/>
-                <a href="https://github.com/CodeCrafter-TL/webintosh/watchers"><img alt="Watchers" src="https://img.shields.io/github/watchers/CodeCrafter-TL/webintosh?label=Watchers&logo=github&style=flat" title="Watchers" style="margin-right: 5px;" /></a>
-                <a href="https://github.com/CodeCrafter-TL/webintosh/forks"><img alt="Forks" src="https://img.shields.io/github/forks/CodeCrafter-TL/webintosh?label=Forks&logo=github&style=flat" title="Forks" style="margin-right: 5px;" /></a>
-            </div>
-            <div shields>
-                <a href="https://github.com/CodeCrafter-TL/webintosh/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/CodeCrafter-TL/webintosh?label=Stars&color=gold&logo=github&style=flat" title="Stars" style="margin-right: 5px;" /></a>
-                <a href="https://github.com/CodeCrafter-TL/webintosh/issues"><img alt="Issues" src="https://img.shields.io/github/issues/CodeCrafter-TL/webintosh?label=Issues&logo=github" title="Issues" style="margin-right: 5px;" /></a>
-                <a href="https://github.com/CodeCrafter-TL/webintosh/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/CodeCrafter-TL/webintosh?label=Pull%20Requests&logo=github" title="Pull Requests" style="margin-right: 5px;" /></a>
-                <a href="https://github.com/CodeCrafter-TL/webintosh/discussions"><img alt="Discussions" src="https://img.shields.io/github/discussions/CodeCrafter-TL/webintosh?label=Discussions&logo=github" title="Discussions" style="margin-right: 5px;" /></a>
-            </div>
-            <a href="https://github.com/CodeCrafter-TL/webintosh/pulse"><img alt="Insights" src="https://repobeats.axiom.co/api/embed/e840ba982601bced2bae800c035816f2cc8b8ffb.svg" /></a>
-            <a href="https://star-history.com/#CodeCrafter-TL/webintosh&Date">
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=CodeCrafter-TL/webintosh&type=Date&theme=dark" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=CodeCrafter-TL/webintosh&type=Date" />
-                    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=CodeCrafter-TL/webintosh&type=Date" />
-                </picture>
-            </a> -->
             <p style="margin-top: 20px;">用 <code>html</code><code>css</code><code>js</code> 还原 macOS Sequoia</p>
             <p style="margin-top: 5px;">锁屏密码: <strong>Ventura Sonoma Sequoia</strong></p>
             <p style="margin-top: 5px;">GitHub Pages: <a href="https://codecrafter-tl.github.io/Webintosh"><strong>https://codecrafter-tl.github.io/Webintosh</strong></a></p>
