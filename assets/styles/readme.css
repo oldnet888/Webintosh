@@ -1,4 +1,8 @@
-div[window] {
+* {
+    font-family: 'SFPro-Regular', 'PingFang-Regular';
+}
+
+.window {
     border-radius: 10px;
     overflow: hidden;
     display: flex;
@@ -10,7 +14,7 @@ div[window] {
     padding: 24px 12px;
 }
 
-div[wintools] {
+.wintools {
     z-index: 10;
     position: absolute;
     top: 8px;
@@ -25,7 +29,7 @@ div[wintools] {
     -webkit-user-select: none;
 }
 
-div[red] {
+.red {
     cursor: default;
     font-size: 7px;
     display: flex;
@@ -38,7 +42,7 @@ div[red] {
     margin-right: 6px;
 }
 
-div[yellow] {
+.yellow {
     cursor: default;
     font-size: 6px;
     display: flex;
@@ -51,7 +55,7 @@ div[yellow] {
     margin-right: 6px;
 }
 
-div[green] {
+.green {
     cursor: default;
     font-size: 7px;
     display: flex;
@@ -63,12 +67,12 @@ div[green] {
     background-color: #28c840;
 }
 
-div[window] p {
+.window p {
     margin: 0;
-    color: black;
+    /* color: black; */
 }
 
-div[shields] {
+.shields {
     width: auto;
     height: auto;
     display: flex;
