@@ -20,11 +20,10 @@
 - `JavaScript`
 
 已测试的浏览器: (打勾表示支持)
-
-[x] `Apple Safari`
-[x] `Google Chrome`
-[x] `Microsoft Edge`
-[ ] `Internet Explorer`
+- [x] `Apple Safari`
+- [x] `Google Chrome`
+- [x] `Microsoft Edge`
+- [ ] `Internet Explorer`
 
 相关仓库:
 - [Webintosh-docs](https://github.com/codecrafter-tl/Webintosh-docs)
